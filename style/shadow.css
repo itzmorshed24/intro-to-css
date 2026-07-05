@@ -1,0 +1,17 @@
+.blog{
+    background-color: antiquewhite;
+    margin: 50px;
+    width: 400px;
+    padding: 10px;
+    box-shadow: -20px -20px 50px;
+}
+
+#header{
+    background-color: aqua;
+    height: 300px;
+}
+
+#header h1{
+    text-align: center;
+    padding-top: 50px;
+}

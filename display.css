@@ -1,0 +1,19 @@
+article{
+    background-color: rgb(172, 103, 237);
+}
+h3{
+    text-align: center;
+}
+
+#second-article{
+    /* display: none; */
+    visibility: hidden;
+}
+
+span{
+    color:coral;
+    display: block;
+    width: 250px;
+    height: 50px;
+    border: 2px solid green;
+}
